@@ -1,0 +1,13 @@
+org_name: nullstone
+name: mongo-atlas-project
+friendly_name: Mongo Atlas Project
+description: Creates a project in Mongo Atlas and establishes a Private Link endpoint.
+category: network
+subcategory: ""
+provider_types:
+    - aws
+platform: mongo
+subplatform: atlas
+type: ""
+appCategories: []
+is_public: true
